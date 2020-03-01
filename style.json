@@ -5084,7 +5084,7 @@
       "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=n3tz6THIx4lOJkEf3ZW9"
     }
   },
-  "sprite": "https://haan123.github.io/businfo/sprites/businfo",
+  "sprite": "https://haan123.github.io/businfo/sprites/businfo-static",
   "version": 8,
   "zoom": 17.697541409467302
 }
